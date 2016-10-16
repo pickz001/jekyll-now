@@ -20,7 +20,7 @@ table.round {
     margin-bottom: 20px;
 }
 
-table.round tr:not(:first-child) td:not(:first-child) {
+tr.round:not(:first-child), td.round:not(:first-child) {
     border-left-style: solid;
     border-left-width: 1px;
     border-top-style: solid;
