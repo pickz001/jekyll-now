@@ -9,6 +9,15 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+table.lesson1 {
+    background-color: red;
+    display: inline;
+    border-style: solid;
+    border-width: 4px;
+    border-collapse: initial;
+    border-spacing: 2px;
+}
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -18,9 +27,8 @@ html {
 }
 
 body {
-  background-color: green;
+  background-color: lightblue;
   font: 18px/1.4 $helvetica;
-  color: lightblue;
 }
 
 .container {
