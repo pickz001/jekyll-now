@@ -25,7 +25,7 @@ table.round tr:not(:first-child)
     border-top-width: 1px;
 }
 
-table.round td.round:not(:first-child) {
+table.round td:not(:first-child) {
     border-left-style: solid;
     border-left-width: 1px;
 }
