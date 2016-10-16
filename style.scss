@@ -19,7 +19,7 @@ table.round {
     width: 100%;
 }
 
-table.round tr td {
+table.round tr:not(:first-child) td:not(:first-child) {
     border-left-style: solid;
     border-left-width: 1px;
     border-top-style: solid;
