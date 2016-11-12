@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective?</td>
   </tr>
   <tr>
-    <td>I managed to get to chapter 4 'We have apples'. I am now making enough progress and are being able to keep up with my class. The strategy that worked best for me was reading a whole chapter and copying it into my own computer. I also looked at all the pictures and read all the extra hints.</td>
+    <td>I managed to get to chapter 4 'We have apples'. I am now making enough progress and are being able to keep up with my class. The strategy that worked best for me was reading a whole chapter and copying it into my own computer. I also looked at all the pictures and read all the extra hints.I also starting making amendments to my github page,the first thing I did was change the backround colour to green which is my favourite colour.At first I didn't know what to do so I went to the W3 Schools website and they had a solution and then I experimented on my blog and it worked. </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
