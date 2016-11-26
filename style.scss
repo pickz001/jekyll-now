@@ -8,14 +8,13 @@ O------
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-table.round {    background-color: orange ;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    border-collapse: separate;
-    border-radius: 10px;
-    width: 100%;
-    margin-bottom: 20px;
+body {
+background: url(http://patterncooler.com/gen/index/w/rain_drops_pattern-1015.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: 100% 100%;
+ font: 14px/1.4 $courier;
+ color: #001a33;
 }
 
 table.round tr:not(:first-child) {    border-top-style: solid;
