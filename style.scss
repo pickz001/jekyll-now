@@ -9,7 +9,12 @@
 // Syntax highlighting @import is at the bottom of this file
 
 body {
-backround-colour: rgb(255, 102, 0);
+backround:url(https://s-media-cache-ak0.pinimg.com/736x/72/c0/25/72c0258e4d54fe4411da3a1a60db415a.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%
+	font: 18px/1.4 $helvetica;
+	colour: #001a33
 }
 
 table.round tr:not(:first-child) {    border-top-style: solid;
@@ -31,10 +36,6 @@ html {
   font-size: 100%;
 }
 
-body {
-  background-color: lightblue;
-  font: 18px/1.4 $helvetica;
-}
 
 .container {
   margin: 0 auto;
