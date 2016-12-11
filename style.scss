@@ -1,4 +1,5 @@
-------
+---
+---
 
 //
 // IMPORTS
@@ -8,16 +9,19 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-body {
-background: url(http://patterncooler.com/gen/index/w/rain_drops_pattern-1015.jpg);
- background-repeat: no-repeat;
- background-attachment: fixed;
- background-size: 100% 100%;
- font: 18px/1.4 $helvetica;
- color: #001a33;
+table.round {
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-collapse: separate;
+    border-radius: 10px;
+    width: 100%;
+    margin-bottom: 20px;
 }
 
-table.round tr:not(:first-child) {    border-top-style: solid;
+table.round tr:not(:first-child) {
+    border-top-style: solid;
     border-top-width: 1px;
 }
 
@@ -50,7 +54,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: pink;
+  color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
