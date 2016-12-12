@@ -19,7 +19,6 @@ table.round {
     width: 100%;
     margin-bottom: 20px;
 }
-
 table.round tr:not(:first-child) {
     border-top-style: solid;
     border-top-width: 1px;
@@ -31,7 +30,6 @@ table.round td:not(:first-child) {
 }
 
 
-
 /**************/
 /* BASE RULES */
 /**************/
@@ -41,8 +39,7 @@ html {
 }
 
 body {
-  background-image: url("http://www.psdgraphics.com/file/blue-abstract-background.jpg");	
-  /*background-color: lightblue;*/
+  background-image: url("http://www.psdgraphics.com/file/blue-abstract-background.jpg");	  /*background-color: lightblue;*/
   font: 18px/1.4 $helvetica;
 }
 
@@ -70,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: orange;
   }#rcorners2 {
     border-radius: 25px;
     border: 2px solid #73AD21;
