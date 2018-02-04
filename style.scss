@@ -39,8 +39,12 @@ html {
 }
 
 body {
-  background-image: url("https://www.pexels.com/photo/clouds-country-daylight-grass-371633/");	 
-  font: 18px/1.4 helvetica;
+  background: url(https://image.freepik.com/free-vector/nature-background-of-a-grassy-landscape_1048-1305.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	font: 14px/1.4 courier;
+	color: #001a33;
 }
 
 .container {
